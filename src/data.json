@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Oğulcan",
+    "lastname": "Munoğulları",
+    "country": "Türkiye",
+    "info": "I have been interested in Frontend Web Development since 2018. Of course, I started with HTML and CSS like everyone else.After various jobs, I decided to make Frontend Development my profession and i start learning JavaScript. I've been working with React since first quarter of 2022 and I have done many projects.Hope you enjoy the tour.",
+    "linkedin": "https://www.linkedin.com/in/ogulcanmunogullari/",
+    "github": "https://github.com/ogulcanmunogullari",
+    "id": 1
+  },
+  {
+    "title": "Movie Archive App",
+    "project_info": "This is a movie archive app that allows you to search for movies by title and add your watched movies to your list.There is a small feature that recommends similar movies to selected movie.",
+    "link": "https://izledim.netlify.app/",
+    "id": 2
+  },
+  {
+    "title": "Weather App",
+    "project_info": "This is a weather app that use your location or allows you to search for weather by city name.There is a small feature that colorize the cards by weather condition.",
+    "link": "https://ogulcan-weather.netlify.app/",
+    "id": 3
+  }
+]

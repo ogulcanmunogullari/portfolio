@@ -1,0 +1,53 @@
+@media (min-width: 481px) {
+  .container {
+    max-width: 1024px;
+    padding: 2em;
+  }
+  .title {
+    font-weight: bold;
+    font-size: 2.5em;
+  }
+  .job {
+    font-weight: 900;
+    margin-top: 0.1em;
+    font-size: 4em;
+  }
+  .country {
+    font-weight: bold;
+    margin-top: 0.1em;
+    font-size: 2.5em;
+  }
+
+  .info {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+    text-align: justify;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: 100%;
+    padding: 1em;
+  }
+  .title {
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  .job {
+    font-weight: 900;
+    margin-top: 0.1em;
+    font-size: 1.5em;
+  }
+  .country {
+    font-weight: bold;
+    margin-top: 0.1em;
+    font-size: 1.5em;
+  }
+
+  .info {
+    margin-top: 0.5em;
+    font-size: 1.1em;
+    text-align: justify;
+  }
+}

@@ -1,0 +1,8 @@
+.children {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-align: start none;
+  background-color: cornflowerblue;
+}

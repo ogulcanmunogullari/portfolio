@@ -1,0 +1,42 @@
+@media (min-width: 481px) {
+  .container:first-child {
+    margin-bottom: 5em;
+  }
+  .title {
+    font-weight: bold;
+    font-size: 2.5em;
+  }
+  .info {
+    font-weight: 300;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 1.5em;
+  }
+  .link {
+    font-size: 1.2em;
+    text-align: justify;
+    color: bisque;
+  }
+}
+
+@media (max-width: 480px) {
+  .container:first-child {
+    margin-bottom: 2em;
+  }
+  .title {
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  .info {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 1.1em;
+    text-align: justify;
+  }
+  .link {
+    font-weight: 300;
+    font-size: 0.95em;
+    text-align: justify;
+    color: bisque;
+  }
+}
