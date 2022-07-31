@@ -1,5 +1,5 @@
 @media (min-width: 481px) {
-  .container:first-child {
+  .container {
     margin-bottom: 5em;
   }
   .title {

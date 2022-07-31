@@ -19,5 +19,11 @@
     "project_info": "This is a weather app that use your location or allows you to search for weather by city name.There is a small feature that colorize the cards by weather condition.",
     "link": "https://ogulcan-weather.netlify.app/",
     "id": 3
+  },
+  {
+    "title": "Question Game App",
+    "project_info": "Question game creation platform where you can create questions and answers and send them to your friends, make changes to the games you have created or to someone else (if they have not set a password). It is currently under development, since there is no database to store the games, it will be deleted when the page is refreshed, and you cannot distribute your game with the link for this reason.",
+    "link": "https://ogulcan-question.netlify.app/",
+    "id": 4
   }
 ]
